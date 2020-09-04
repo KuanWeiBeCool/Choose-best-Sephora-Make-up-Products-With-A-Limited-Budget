@@ -10,7 +10,7 @@ This repository contains two notebooks:
 - Scaped over 100 "Just arrived" make-up products on Sephora website
 
 
-# Code and Resources Used
+## Code and Resources Used
 **Python Version**: 3.7
 
 **Packages**: selenium, Beautifulsoup, urljoin, pandas
@@ -18,11 +18,11 @@ This repository contains two notebooks:
 **Sephora Make-up Website**: ww.sephora.com/ca/en/beauty/new-makeup
 
 
-# Medium Article
+## Medium Article
 https://medium.com/@kuan.wei0413/using-python-and-selenium-to-scrape-infinite-scroll-web-pages-825d12c24ec7
 
 
-# Web Scraping
+## Web Scraping
 Used self-designed scrapping script for infinite scroll web pages. With each product, the following information is scrapped:
 - Product Name
 - Product Rating (in stars)
