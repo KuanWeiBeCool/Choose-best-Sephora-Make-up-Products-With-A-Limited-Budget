@@ -6,8 +6,10 @@ This repository contains two notebooks:
 
 
 # Sephora Project Overview
-- Created a script that helps me choose the best combination of products with a given budget of $100
-- Scaped over 100 "Just arrived" make-up products on Sephora website
+Girls love makeup products, and they also like surprises. So, naturally, sometimes they want their boyfriends (or guy friends in general) to give them makeup products as surprise gifts. Unfortunately, guys usually have very little sense about makeup, or not at all. Thus, choosing makeup products can be a great challenge for guys. I have a girlfriend who also loves makeup product, and I am one of the guys who knows nothing about it. So, to save my future self some "trouble" when the time comes, I developed a method to help me automatically choose the best makeup products, within a given budget. In the project, I did the following:
+- Scaped over 100 "Just arrived" make-up products from Sephora website
+- Created a script that helps me choose the best combination of newly arrived make-up products with a given budget of $100
+
 
 
 ## Code and Resources Used
