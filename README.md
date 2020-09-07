@@ -11,8 +11,9 @@ Girls love makeup products, and they also like surprises. So, naturally, sometim
 - Created a script that helps me choose the best combination of newly arrived make-up products with a given budget of $100
 
 ## Plots of Information Scraped
-
-
+![image](num_stars_distribution.png)
+![image](num_reviews_distribution.png)
+![image](num_likes_distribution.png)
 
 ## Code and Resources Used
 **Python Version**: 3.7
