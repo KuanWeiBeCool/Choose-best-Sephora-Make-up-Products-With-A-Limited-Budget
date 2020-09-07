@@ -10,11 +10,7 @@ Girls love makeup products, and they also like surprises. So, naturally, sometim
 - Scaped over 100 "Just arrived" make-up products from Sephora website
 - Created a script that helps me choose the best combination of newly arrived make-up products with a given budget of $100
 
-## Plots of Information Scraped
 
-![image](rating_stars_distribution.png)
-![image](num_reviews_distribution.png)
-![image](num_likes_distribution.png)
 
 ## Code and Resources Used
 **Python Version**: 3.7
@@ -23,14 +19,25 @@ Girls love makeup products, and they also like surprises. So, naturally, sometim
 
 **Sephora Make-up Website**: ww.sephora.com/ca/en/beauty/new-makeup
 
-
 ## Medium Article
 https://medium.com/@kuan.wei0413/using-python-and-selenium-to-scrape-infinite-scroll-web-pages-825d12c24ec7
 
 
 ## Web Scraping
 Used self-designed scrapping script for infinite scroll web pages. With each product, the following information is scrapped:
+- Brand Name
 - Product Name
 - Product Rating (in stars)
 - Number of Reviews
+- Number of Likes
 - Price
+
+## Plots of Information Scraped
+
+![image](rating_stars_distribution.png)
+![image](num_reviews_distribution.png)
+![image](num_likes_distribution.png)
+
+## Top Five Combinations Selected By Script
+
+![image](final_table.png)
