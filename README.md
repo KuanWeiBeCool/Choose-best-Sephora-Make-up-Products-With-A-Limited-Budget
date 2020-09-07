@@ -6,9 +6,11 @@ This repository contains two notebooks:
 
 
 # Sephora Project Overview
-Girls love makeup products, and they also like surprises. So, naturally, sometimes they want their boyfriends (or guy friends in general) to give them makeup products as surprise gifts. Unfortunately, guys usually have very little sense about makeup, or not at all. Thus, choosing makeup products can be a great challenge for guys. I have a girlfriend who also loves makeup product, and I am one of the guys who knows nothing about it. So, to save my future self some "trouble" when the time comes, I developed a method to help me automatically choose the best makeup products, within a given budget. In the project, I did the following:
+Girls love makeup products, and they also like surprises. So, naturally, sometimes they want their boyfriends (or guy friends in general) to give them makeup products as surprise gifts. Unfortunately, guys usually have very little sense about makeup, or not at all. Thus, choosing makeup products can be a great challenge for guys. I have a girlfriend who also loves makeup product, and I am one of the guys who knows nothing about it. I visited Sephora - a very popular company that sells various make-ups - but I found it was hard to use its filter system as it only allows you to filter one criterion at a time. For example, if you only want products with less than $100 and you filter the products by price, you won't be able to further sort the products by the number of reviews. I then realize that I can use my data science skills to help me find the products I want. So in this notebook, I developed a script to help me automatically choose the best newly-arrived makeup products, within a given budget. In the project, I did the following:
 - Scaped over 100 "Just arrived" make-up products from Sephora website
 - Created a script that helps me choose the best combination of newly arrived make-up products with a given budget of $100
+
+## Plots of Information Scraped
 
 
 
