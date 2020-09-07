@@ -40,4 +40,4 @@ Used self-designed scrapping script for infinite scroll web pages. With each pro
 
 ## Top Five Combinations Selected By Script
 
-![image](final_table.png)
+![image](final_table.PNG)
